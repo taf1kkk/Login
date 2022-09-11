@@ -31,3 +31,43 @@ body{
     position: relative;
     margin: 0px;
 }
+.login{
+    margin: 0px;
+}
+#inputLogin{
+    width: 500px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid #4A545E;
+    border-radius: 50px;
+    outline: none;
+    padding: 15px;
+    font-size: 35px;
+    font-family: Courier;
+    color: #4D4764;
+    text-align: center;
+    letter-spacing: 3px;
+}
+.password{
+    margin: 0px;
+}
+#inputPassword{
+    width: 500px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 5px solid #4A545E;
+    border-radius: 50px;
+    outline: none;
+    padding: 15px;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 3px;
+}
